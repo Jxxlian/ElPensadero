@@ -1,0 +1,36 @@
+<div class="row cont-pomodoro-gral">
+    <div class="cont-pomodoro-text">
+        <h1 class="section-title">Pomodoro</h1>
+        <p>La técnica Pomodoro es un método para mejorar la administración del tiempo dedicado a una actividad. <br> <br> Se basa en usar un temporizador para dividir el tiempo en intervalos fijos, llamados pomodoros, de 25 minutos de actividad, seguidos de 5 minutos de descanso, con pausas más largas cada cuatro pomodoros. </p>
+    </div>
+    <div class="col-md-7">
+        <div id="cont-pomodoro-clock">
+            <p id="work" class="label"><u>Trabajo</u></p> 
+            <p id="cycle" class="label"><u>Ciclo</u></p> 
+            <p id="break" class="label"><u>Break</u></p>
+
+            <!-- work timer -->
+            <div id="w_timer" class="timer">
+                <p id="w_minutes">25</p>
+                <p class="dospuntos">:</p>
+                <p id="w_seconds">00</p>            
+            </div>
+
+            <div id="counter" class="timer">0</div>
+
+            <!-- break timer -->
+            <div id="b_timer" class="timer">
+                <p id="b_minutes">05</p>
+                <p class="dospuntos">:</p>
+                <p id="b_seconds">00</p>            
+            </div>
+            
+        </div>
+
+        <div class="containerBtn">
+            <button id="start" class="btnPomodoro btn btn-info">Start</button>
+            <button id="pause" class="btnPomodoro btn btn-info">Pause</button>
+            <button id="rest" class="btnPomodoro btn btn-info">Reset</button>
+        </div>
+    </div>
+</div>
