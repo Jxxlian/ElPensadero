@@ -1,8 +1,7 @@
 <?php 
     
-    $error = '';
-
-    $db = mysqli_connect('localhost', 'root', '', 'todolist');
+    $error = '';    
+    $db = mysqli_connect('', '', '', '');
     
     if(ISSET($_POST['submit'])) {
         $task = $_POST['task'];

@@ -1,7 +1,7 @@
 # El Pensadero - Web para estudiante
 
 ## Información general
-En este proyecto desarrolé una onepage utilizando  HTML, CSS, Javascript, Bootstrap, PHP y Mysql. También hice uso de 'fullcalendar' y 'clockpicker' como repositorios externos. Las burbujas animadas solo es código HTML/CSS.
+En este proyecto desarrollé una onepage utilizando  HTML, CSS, Javascript, Bootstrap, PHP y Mysql. También hice uso de 'fullcalendar' y 'clockpicker' como repositorios externos. Las burbujas animadas solo es código HTML/CSS.
 
 Las secciones de la web están compuestas por:
 ### Pomodoro
@@ -23,4 +23,4 @@ Para que el proyecto funcione correctamente es necesario conectarlo a variables 
  [Vercel Test](https://pildora-gamma-flax.vercel.app/) FALTA PONER EL LINK AL REPOSITORIO SUBIDO
 
  ## Vista previa al proyecto
-![Funcionamiento de la web](./public/images/Pildora[ScreenRecorder].gif) FALTA HACER UN GIF QUE MUESTRE LA WEB
+![Funcionamiento de la web](./img/ElPensadero%5Bscreenrecording%5D.gif) FALTA HACER UN GIF QUE MUESTRE LA WEB

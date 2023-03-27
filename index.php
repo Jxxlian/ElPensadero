@@ -25,7 +25,7 @@
     <!-- ClockPicker -->
     <script src="js/bootstrap-clockpicker.js"></script>
     <link rel="stylesheet" href="css/bootstrap-clockpicker.css">
-    <title>Todo para el neurótico</title>
+    <title>El Pensadero - Web para estudiantes</title>
 </head>
 <body>
   

@@ -1,6 +1,6 @@
 <?php 
 header('Content-type: application/json');
-$pdo = new PDO("mysql:dbname=todolist;host=localhost","root","");
+$pdo = new PDO("mysql:dbname=;host=","","");
 
 $action= (isset($_GET['action']))?$_GET['action']:$action='read';
 
