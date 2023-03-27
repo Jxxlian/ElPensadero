@@ -20,7 +20,7 @@ Es un código de youtube embebido en nuestra web.
 Para que el proyecto funcione correctamente es necesario conectarlo a variables de entorno de Mysql ya que utiliza base de dato para el calendario y la lista de tareas (to do list).
 
  ## Test App
- [Vercel Test](https://webparaestudiante.000webhostapp.com/index.php) 
+ [WebHost Test](https://webparaestudiante.000webhostapp.com/index.php) 
 
  ## Vista previa al proyecto
 ![Funcionamiento de la web](./img/ElPensadero%5Bscreenrecording%5D.gif) 
